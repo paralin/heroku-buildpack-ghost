@@ -1,4 +1,4 @@
-# Heroku Buildpack Bower
+# Heroku Buildpack Ghost
 
 A simple buildpack, designed to run with the [multi buildpack](https://github.com/ddollar/heroku-buildpack-multi),
 which will run install bower and run `bower install`.
